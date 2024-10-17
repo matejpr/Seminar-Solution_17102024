@@ -16,6 +16,7 @@ pageextension 50101 "CSD ResourceListExt" extends "Resource List"
             {
                 ApplicationArea = All;
                 Visible = ShowMaxField;
+
             }
         }
 
