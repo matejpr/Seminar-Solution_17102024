@@ -1,0 +1,32 @@
+{
+  "id": "ac37b699-0c3c-4eb6-a6a7-7d1b3f047df4",
+  "name": "SD Seminar",
+  "publisher": "D.E. Veloper",
+  "version": "24.0.0.0",
+  "brief": "SD Seminar",
+  "description": "SD Seminar - this is my app",
+  "privacyStatement": "",
+  "EULA": "https://ba-consult.dk/downloads/errorlog.txt",
+  "help": "",
+  "url": "",
+  "logo": "Images/Logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
