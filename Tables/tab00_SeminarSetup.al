@@ -13,19 +13,19 @@ table 50100 "CSD Seminar Setup"
         }
         field(20; "Seminar Nos."; Code[20])
         {
-            Caption = 'Primary Key';
+            Caption = 'Seminar Nos.';
             DataClassification = AccountData;
 
         }
         field(30; "Seminar Registration Nos."; code[20])
         {
-            Caption = 'Primary Key';
+            Caption = 'Seminar Registration Nos.';
             DataClassification = AccountData;
 
         }
         field(40; "Posted Seminar Reg. Nos."; code[20])
         {
-            Caption = 'Primary Key';
+            Caption = 'Posted Seminar Reg. Nos.';
             DataClassification = AccountData;
 
         }
