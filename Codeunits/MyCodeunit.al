@@ -3,8 +3,6 @@ codeunit 50109 MyCodeunit
 
     trigger OnRun()
     begin
-        //customer.GetBalanceAsVendor()
-        //Customer.
         Message('test');
 
     end;
